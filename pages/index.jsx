@@ -24,7 +24,7 @@ export default function Home() {
                                         <path strokeLinecap="round" strokeLinejoin="round"
                                               d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z"/>
                                     </svg>
-                                    <p className="hover:cursor-pointer text-white">bio</p>
+                                    <p className="hover:cursor-pointer text-white">Bio</p>
                                 </div>
                             </Link>
                         </li>
@@ -36,7 +36,7 @@ export default function Home() {
                                         <path strokeLinecap="round" strokeLinejoin="round"
                                               d="M6 6.878V6a2.25 2.25 0 0 1 2.25-2.25h7.5A2.25 2.25 0 0 1 18 6v.878m-12 0c.235-.083.487-.128.75-.128h10.5c.263 0 .515.045.75.128m-12 0A2.25 2.25 0 0 0 4.5 9v.878m13.5-3A2.25 2.25 0 0 1 19.5 9v.878m0 0a2.246 2.246 0 0 0-.75-.128H5.25c-.263 0-.515.045-.75.128m15 0A2.25 2.25 0 0 1 21 12v6a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 18v-6c0-.98.626-1.813 1.5-2.122"/>
                                     </svg>
-                                    <p className="hover:cursor-pointer text-white">projects</p>
+                                    <p className="hover:cursor-pointer text-white">Projects</p>
                                 </div>
                             </Link>
                         </li>
